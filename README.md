@@ -1,3 +1,5 @@
+#I have modified this repo only replacing username with user_id.  username was treated as an object, so passing an int would have provided the functionality I was looking for, my changes serve only to make it easier for me to think about it. 
+
 osuapi
 ======
 [![pip](https://img.shields.io/pypi/v/osuapi.svg)](https://pypi.python.org/pypi/osuapi/)
